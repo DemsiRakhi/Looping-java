@@ -1,5 +1,6 @@
 package j08;
 
+import java.util.Scanner;
 public class Contoh2 {
     public static void main(String[] args) 
     {
